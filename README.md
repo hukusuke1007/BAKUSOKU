@@ -1,2 +1,4 @@
-# Cleanup
+# BAKUSOKU Cleanup shell
+
+Cleaning unnecessary files.
  
